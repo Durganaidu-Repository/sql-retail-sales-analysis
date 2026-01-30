@@ -3,7 +3,6 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data using SQL to extract meaningful business insights such as customer behavior, sales performance, top products, and revenue trends.  
-It is designed to showcase **SQL skills for fresher Data Analyst / SQL roles**.
 
 ---
 
@@ -137,7 +136,6 @@ WHERE rnk = 1;
 
 ---
 
-## 📌 Resume Description
 **Retail Sales Analysis using SQL**
 - Designed and analyzed a retail sales database using SQL to derive business insights.
 - Used complex queries involving joins, subqueries, window functions, and aggregations.
@@ -152,4 +150,3 @@ B.Sc Computers | Data Science Learner
 
 ---
 
-⭐ *This project is created for learning and interview preparation purposes.*
